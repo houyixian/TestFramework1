@@ -1,9 +1,9 @@
 {
   "name": "TestFramework1",
-  "version": "0.1.0",
-  "summary": "A short description of TestFramework1.",
-  "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/kongwen/TestFramework1",
+  "version": "0.1.2",
+  "summary": "测试用的TestFramework1.",
+  "description": "测试用的framework1，你需要比较长的文章，我给你",
+  "homepage": "https://github.com/houyixian/TestFramework1",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,11 +12,16 @@
     "kongwen": "kongwen@xiaohongshu.com"
   },
   "source": {
-    "git": "https://github.com/kongwen/TestFramework1.git",
-    "tag": "0.1.0"
+    "git": "https://github.com/houyixian/TestFramework1.git",
+    "tag": "0.1.2"
   },
+  "swift_versions": "5.0",
   "platforms": {
     "ios": "10.0"
   },
-  "source_files": "TestFramework1/Classes/**/*"
+  "source_files": [
+    "TestFramework1/Classes/**/*",
+    "TestFramework1/Classes/*"
+  ],
+  "swift_version": "5.0"
 }
