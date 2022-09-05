@@ -31,7 +31,7 @@ Pod::Spec.new do |s|
   s.swift_versions = '5.0'
   s.ios.deployment_target = '10.0'
 
-  s.source_files = 'TestFramework1/Classes/**/*'
+  s.source_files = 'TestFramework1/Classes/**/*','TestFramework1/Classes/*'
   
   # s.resource_bundles = {
   #   'TestFramework1' => ['TestFramework1/Assets/*.png']
