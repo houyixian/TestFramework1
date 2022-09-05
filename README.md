@@ -1,0 +1,29 @@
+# TestFramework1
+
+[![CI Status](https://img.shields.io/travis/kongwen/TestFramework1.svg?style=flat)](https://travis-ci.org/kongwen/TestFramework1)
+[![Version](https://img.shields.io/cocoapods/v/TestFramework1.svg?style=flat)](https://cocoapods.org/pods/TestFramework1)
+[![License](https://img.shields.io/cocoapods/l/TestFramework1.svg?style=flat)](https://cocoapods.org/pods/TestFramework1)
+[![Platform](https://img.shields.io/cocoapods/p/TestFramework1.svg?style=flat)](https://cocoapods.org/pods/TestFramework1)
+
+## Example
+
+To run the example project, clone the repo, and run `pod install` from the Example directory first.
+
+## Requirements
+
+## Installation
+
+TestFramework1 is available through [CocoaPods](https://cocoapods.org). To install
+it, simply add the following line to your Podfile:
+
+```ruby
+pod 'TestFramework1'
+```
+
+## Author
+
+kongwen, kongwen@xiaohongshu.com
+
+## License
+
+TestFramework1 is available under the MIT license. See the LICENSE file for more info.
