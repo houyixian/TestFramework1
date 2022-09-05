@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-  测试用的framework1
+  测试用的framework1，你需要比较长的文章，我给你
                        DESC
 
   s.homepage         = 'https://github.com/houyixian/TestFramework1'
