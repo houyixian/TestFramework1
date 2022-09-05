@@ -1,0 +1,22 @@
+{
+  "name": "TestFramework1",
+  "version": "0.1.0",
+  "summary": "A short description of TestFramework1.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/kongwen/TestFramework1",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "kongwen": "kongwen@xiaohongshu.com"
+  },
+  "source": {
+    "git": "https://github.com/kongwen/TestFramework1.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "TestFramework1/Classes/**/*"
+}
