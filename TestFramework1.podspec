@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
   测试用的framework1
                        DESC
 
-  s.homepage         = 'https://github.com/kongwen/TestFramework1'
+  s.homepage         = 'https://github.com/houyixian/TestFramework1'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'kongwen' => 'kongwen@xiaohongshu.com' }
-  s.source           = { :git => 'https://github.com/kongwen/TestFramework1.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/houyixian/TestFramework1.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.swift_versions = '5.0'
