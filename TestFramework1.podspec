@@ -28,6 +28,7 @@ Pod::Spec.new do |s|
   s.source           = { :git => 'https://github.com/kongwen/TestFramework1.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
+  s.swift_versions = '5.0'
   s.ios.deployment_target = '10.0'
 
   s.source_files = 'TestFramework1/Classes/**/*'
